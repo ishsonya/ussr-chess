@@ -1,5 +1,5 @@
 # ussr-chess
-Puzzle solvation
+Puzzle solver
 
 Rules:
 
